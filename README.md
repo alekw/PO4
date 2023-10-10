@@ -1,2 +1,4 @@
 # PO4
-test dla grupy L04
+test dla najlepszej grupy L04
+
+wprowadziam jakies zmiany
